@@ -20,6 +20,8 @@ Sex, Smoking, Time of Observation, Death Event
 
 This dashboard is designed to help identify critical risk factors and improve data-driven decision-making in healthcare. It simulates real clinical scenarios using synthetic long-format data (1000+ patient records).
 
+<img width="1326" height="738" alt="Screenshot 2025-07-22 192539" src="https://github.com/user-attachments/assets/96e3ddd6-5fdd-4bb1-b9ba-521d83922fc1" />
+
 🛠 Tools Used:
 🔹 Power BI
 🔹 DAX Measures
