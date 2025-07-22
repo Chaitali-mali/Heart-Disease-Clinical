@@ -28,6 +28,25 @@ This dashboard is designed to help identify critical risk factors and improve da
 🔹 Custom Visuals
 🔹 Synthetic Dataset (CSV)
 
+✅ 𝐒𝐐𝐋 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐏𝐫𝐨𝐣𝐞𝐜𝐭
+
+💡 𝐊𝐞𝐲 𝐒𝐤𝐢𝐥𝐥𝐬 𝐔𝐬𝐞𝐝:
+
+🔹Aggregation (SUM, COUNT, AVG)
+🔹Filtering & Sorting (WHERE, ORDER BY)
+🔹Grouping Data (GROUP BY, HAVING)
+🔹Subqueries & Aliases
+
+📊 SQL Query Project — Clinical Data Analysis 🧪
+
+<img width="967" height="666" alt="Screenshot 2025-07-23 012405" src="https://github.com/user-attachments/assets/5788c1b2-0f30-4a3e-903d-7f6204191ac8" />
+
+🔍 I recently explored a medical dataset where I analyzed serum sodium levels using SQL to identify key health trends.
+Here’s a simple but insightful query I wrote to extract the lowest 5 unique serum sodium values, which can help detect potential cases of hyponatremia (low sodium):
+
+<img width="967" height="666" alt="Screenshot 2025-07-23 012405" src="https://github.com/user-attachments/assets/476219dd-a680-4160-8675-c685a76bd430" />
+
+
 💡 Built for learning, insights, and impact — especially in healthcare and clinical analytics.
 
 📁 Want the dataset I used?
@@ -36,4 +55,7 @@ This dashboard is designed to help identify critical risk factors and improve da
 Let me know your thoughts or if you'd like to collaborate on a similar healthcare data project!
 
 #PowerBI #HealthcareAnalytics #HeartDisease #DataVisualization #DataScience #PatientCare #PowerBIDashboard #LearningByDoing #DAX #ClinicalData #AnalyticsForGood
+#SQL #DataAnalytics #Projects #LearningByDoing #Ecommerce #ChaitaliMali #PortfolioProject #LinkedInProject
+
+
 
