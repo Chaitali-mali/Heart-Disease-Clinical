@@ -39,7 +39,7 @@ This dashboard is designed to help identify critical risk factors and improve da
 
 📊 SQL Query Project — Clinical Data Analysis 🧪
 
-<img width="967" height="666" alt="Screenshot 2025-07-23 012405" src="https://github.com/user-attachments/assets/5788c1b2-0f30-4a3e-903d-7f6204191ac8" />
+<img width="760" height="415" alt="SQL" src="https://github.com/user-attachments/assets/8b80a241-1e97-4b25-b2e0-618a09ccd9e1" />
 
 🔍 I recently explored a medical dataset where I analyzed serum sodium levels using SQL to identify key health trends.
 Here’s a simple but insightful query I wrote to extract the lowest 5 unique serum sodium values, which can help detect potential cases of hyponatremia (low sodium):
