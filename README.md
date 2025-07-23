@@ -1,5 +1,5 @@
-# Heart-Disease-Clinical-Dataset-Analysis
-🔬 Heart Disease Clinical Dataset Analysis | 📊 Power BI Dashboard
+# Heart-Disease-Clinical
+🔬 Heart Disease Clinical  | 📊 Power BI Dashboard
 
 I’m excited to share my latest project where I used a Heart Disease Clinical Dataset to build an insightful Power BI dashboard for healthcare analytics! 🫀📈
 
